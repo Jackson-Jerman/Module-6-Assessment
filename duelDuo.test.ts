@@ -23,3 +23,9 @@ test('Title shows up when page loads', async () => {
 //     await driver.findElement(By.id("choices"))
 //     await driver.sleep(3000)
 // }) 
+
+
+// test('Add to Duo', async () => {
+//     await driver.findElement(By.id("player-duo"))
+//     await driver.sleep(3000)
+// }) 
